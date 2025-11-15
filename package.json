@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-gestaopro",
+  "version": "1.0.0",
+  "description": "Projeto de portfólio GestãoPro",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Nenhum servidor configurado. Adicione um servidor ou framework.'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
