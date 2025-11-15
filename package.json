@@ -4,7 +4,8 @@
   "description": "Projeto de portfólio GestãoPro",
   "main": "index.js",
   "scripts": {
-    "dev": "echo 'Nenhum servidor configurado. Adicione um servidor ou framework.'"
+    "dev": "echo 'Nenhum servidor configurado. Adicione um servidor ou framework.'",
+    "start": "live-server --open=index.html"
   },
   "author": "",
   "license": "ISC",
